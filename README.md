@@ -2,4 +2,4 @@
 
 Seismic Date Processing with MATLAB
   Explores the changes of velocity gradient with depth
-![](Vecotr Field.jpg)
+![](Vector Field.jpg)
